@@ -31,8 +31,8 @@ Unduh File 'Litra.apk' dari repositori di atas ke HP Android.
 
 ## Backup Links
 
-* [Drive Folder](https://drive.google.com/drive/folders/19kcuwErtT50QEb3hiMleu8uwWjiPfyGV?usp=drive_link)
-* [Apk](https://drive.google.com/file/d/1woXjaxYH5HqwtFvug1DJkgdIpmAd9mth/view?usp=drive_link)
+* [OneDrive Folder](https://binusianorg-my.sharepoint.com/personal/kisusherly_annelise_binus_ac_id/_layouts/15/guestaccess.aspx?share=ElJt-VWZcvtKo33GS1Sc46wBlqxPX34Go5wke2t8HrF08g&e=sVdsRB)
+* [Apk](https://binusianorg-my.sharepoint.com/personal/kisusherly_annelise_binus_ac_id/_layouts/15/guestaccess.aspx?share=EtRbx9G46wdNkVsE1tdg3kYBhfi4eKsmM1OEjooeo2KFRQ&e=sg9sfs)
 * [Video Demo Aplikasi](https://drive.google.com/file/d/10FpPHk4xhx1F6VFbNgu4AirndpCT4Djd/view?usp=drive_link) 
-* [Pitch Deck](https://drive.google.com/drive/folders/1dZuaMKgspiWh9cNzJLk312ihBZJL5-uA?usp=sharing)
+* [Pitch Deck](https://binusianorg-my.sharepoint.com/personal/kisusherly_annelise_binus_ac_id/_layouts/15/guestaccess.aspx?share=EZD_LbZiKuZDtDG_t2717B4B-IRrT6q8dgFqnL5rwZGcPw)
 
